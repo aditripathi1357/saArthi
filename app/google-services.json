@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "194519884920",
+    "project_id": "saarthi-2390d",
+    "storage_bucket": "saarthi-2390d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194519884920:android:171fa43e5f64128898b98d",
+        "android_client_info": {
+          "package_name": "com.example.saarthi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7XIjRxD4fY8VNwR2P3hiyTXxJjkA4sBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

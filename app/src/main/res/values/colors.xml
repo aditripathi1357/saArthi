@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="dark_blue">#1B2A4A</color>
+    <color name="dark_gray">#1F2937</color>
+    <color name="light_gray">#E5E7EB</color>
+    <color name="gray">#6B7280</color>
+    <color name="blue">#3B82F6</color>
+    <color name="dark_background">#1A1F2B</color>
+    <color name="dark_surface">#252B38</color>
+    <color name="border_color">#3A4252</color>
+    <color name="text_secondary">#9BA3AF</color>
+    <color name="text_hint">#6B7280</color>
+    <color name="button_color">#2563EB</color>
+    <color name="green">#FF4DCC53</color>
+
+    <color name="darker_background">#151719</color>
+    <color name="input_background">#2A2D31</color>
+    <color name="message_background">#2A2D31</color>
+    <color name="purple">#7C3AED</color>
+
+</resources>
